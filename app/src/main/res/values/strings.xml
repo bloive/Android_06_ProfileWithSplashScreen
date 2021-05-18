@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProfileWithSplash</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="birth_year">Birth year</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="error_empty">"Fill in the field"</string>
+    <string name="error_letters">"Must contain only letters"</string>
+    <string name="error_email">"Enter valid email"</string>
+    <string name="error_year">"Enter valid year"</string>
+</resources>
